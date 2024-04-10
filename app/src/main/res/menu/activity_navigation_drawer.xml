@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_general"
+            android:icon="@drawable/general_quiz_icon"
+            android:title="@string/general_quiz" />
+        <item
+            android:id="@+id/nav_etea"
+            android:icon="@drawable/book"
+            android:title="@string/etea_quiz" />
+        <item
+            android:id="@+id/nav_logical"
+            android:icon="@drawable/logical"
+            android:title="@string/logical_quiz" />
+        <item
+            android:id="@+id/nav_analytical"
+            android:icon="@drawable/analytical"
+            android:title="@string/analytical_quiz" />
+    </group>
+    
+</menu>

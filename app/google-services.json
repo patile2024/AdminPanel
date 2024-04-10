@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434520173491",
+    "firebase_url": "https://adminquiz-b787e-default-rtdb.firebaseio.com",
+    "project_id": "adminquiz-b787e",
+    "storage_bucket": "adminquiz-b787e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434520173491:android:296a164260ec76f05439c6",
+        "android_client_info": {
+          "package_name": "com.squadtech.adminpanelquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434520173491-r7rvvr4qvh4rik4tt4dtgaqbu5d70s31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATz2q0FLh8PARz4Kxjj11plV4FKOrnH4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434520173491-r7rvvr4qvh4rik4tt4dtgaqbu5d70s31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
